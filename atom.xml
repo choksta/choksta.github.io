@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://choksta.github.io</id>
     <title>Gridea</title>
-    <updated>2019-12-19T15:49:01.806Z</updated>
+    <updated>2019-12-21T04:14:30.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://choksta.github.io"/>
     <link rel="self" href="https://choksta.github.io/atom.xml"/>
@@ -10,26 +10,6 @@
     <logo>https://choksta.github.io/images/avatar.png</logo>
     <icon>https://choksta.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
-    <entry>
-        <title type="html"><![CDATA[listen1-集合所有主流音乐平台的在线播放器]]></title>
-        <id>https://choksta.github.io/post/listen1-ji-he-suo-you-zhu-liu-yin-le-ping-tai-de-zai-xian-bo-fang-qi</id>
-        <link href="https://choksta.github.io/post/listen1-ji-he-suo-you-zhu-liu-yin-le-ping-tai-de-zai-xian-bo-fang-qi">
-        </link>
-        <updated>2019-12-19T15:37:28.000Z</updated>
-        <content type="html"><![CDATA[<div class="entry-content">
-<blockquote class="wp-block-quote is-style-default"><p> Listen1是一款可以同时收听网易云、QQ、酷狗、虾米、哔哩哔哩的音乐播放器。在之前我已经推荐过Listen1的浏览器插件版，但Listen1其实并不仅仅是一个浏览器插件，而是一个支持桌面全终端的播放器，不仅是Windows，Linux和Mac也有相应的版本可供使用。 </p></blockquote>
-<p>现在国内音乐的版权被几家音乐平台瓜分，平时我们听歌的时候总是会因为听不到一些歌而要换个音乐app继续听,太苦了啦</p>
-<figure class="wp-block-image size-large"><img src="http://img.soogif.com/JnnR31iDGoKweSjA7tD6x8TAs8GIzPJT.gif" alt=""></figure>
-<p> Listen1的优秀特性(变相解决了因版权而残缺的曲库)、良好的用户体验、对桌面设备支持的完善 </p>
-<figure class="wp-block-image size-large"><img src="http://choksta.top/wp-content/uploads/2019/12/微信截图_20191210135534-1024x688.png" alt="" class="wp-image-628" srcset="http://choksta.top/wp-content/uploads/2019/12/微信截图_20191210135534-1024x688.png 1024w, http://choksta.top/wp-content/uploads/2019/12/微信截图_20191210135534-300x202.png 300w, http://choksta.top/wp-content/uploads/2019/12/微信截图_20191210135534-768x516.png 768w, http://choksta.top/wp-content/uploads/2019/12/微信截图_20191210135534-769x517.png 769w, http://choksta.top/wp-content/uploads/2019/12/微信截图_20191210135534.png 1250w" sizes="(max-width: 1024px) 100vw, 1024px"></figure>
-<p>可以同时搜索和播放来自网易云音乐、虾米音乐、QQ音乐、酷狗音乐、酷我音乐和哔哩哔哩的歌曲。</p>
-<p>可以在 Listen1 中搜索来自各平台的音乐，然后在线播放，收藏或创建自己的歌单。</p>
-<p>官网地址：<a rel="noreferrer noopener" href="https://links.jianshu.com/go?to=https%3A%2F%2Flisten1.github.io%2Flisten1%2F" target="_blank">https://listen1.github.io/listen1/</a><br> GitHub：<a href="https://github.com/listen1/listen1">https://github.com/listen1/listen1</a></p>
-<p>软件使用起来很简单，确实解决了我们的痛点问题。遗憾的是只支持在线播放，不可以下载。</p>
-<p>我们可以在软件中创建自己的专属歌单，在设置中可以将歌单导入/导出，或连接到 Github。</p>
-<p></p>
-							</div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://choksta.github.io/post/hello-gridea</id>
